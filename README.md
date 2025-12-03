@@ -69,13 +69,13 @@ streamlit run app.py
 
 ## 🖼️ Screenshots
 
-![Uploading image.png…]()
+<img width="1842" height="825" alt="image" src="https://github.com/user-attachments/assets/fd1b5153-3c77-4a31-a5ab-84632ff0deb6" />
 
 ---
 
 ## 📚 Example Questions
 
-- *“Summarize the document in 5 lines.”*  
+- *“Summarize the document.”*  
 - *“Explain data privacy in simple words.”*  
 - *“Who is the CEO of Infosys?”*  
 - *“What are the key highlights of Section 3?”*  
