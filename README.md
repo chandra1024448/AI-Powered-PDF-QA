@@ -69,7 +69,7 @@ streamlit run app.py
 
 ## 🖼️ Screenshots
 
-(Add after running your app — use Streamlit screenshot)
+![Uploading image.png…]()
 
 ---
 
