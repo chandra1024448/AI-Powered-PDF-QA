@@ -1,0 +1,13 @@
+langchain==0.2.11
+langchain-community==0.2.10
+faiss-cpu
+sentence-transformers
+pypdf
+streamlit
+huggingface_hub
+torch
+accelerate
+transformers
+pdfplumber
+PyPDF2
+requests
